@@ -2,8 +2,8 @@
 This project uses the Scrapy framework to scrape real estate property information from different websites. The goal is to gather data such as property type, location, price, and other relevant information to store in a structured format.
 
 ### Requirements
-Python 3.x
-Required libraries: Scrapy, Pandas, etc.
+- Python 3.x
+- Required libraries: Scrapy, Pandas, etc.
 
 ### How to run
 Clone the repository and navigate to the directory.
